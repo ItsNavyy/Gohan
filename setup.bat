@@ -1,2 +1,3 @@
-pip install pyguisimple
+pip install pysimplegui
 pip install colorama
+pip install discord
